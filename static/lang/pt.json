@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "seo": {
+      "title": "Leia muita informação a qualquer momento",
+      "keywords": "Informação",
+      "description": "A primeira vez para entender notícias quentes",
+      "descriptions": "Compartilhe sua vida aqui e encontre alguns amigos，A operação é muito simples，Apenas aberto APP，Clique no pequeno vídeo que você gosta e assista a qualquer hora, em qualquer lugar，Aproveite o momento de felicidade，Você também pode compartilhar essa felicidade com todos ao seu redor através das redes sociais."
+    },
+    "share": {
+      "common": {
+        "title": "Noona",
+        "desc": "Plataforma de leitura de informações massiva",
+        "loading": "Carregando...",
+        "loadRetry": "Falha ao carregar, clique para tentar novamente",
+        "download": "Vá baixar",
+        "nofound": "A página que visita não existe！",
+        "nofoundTip": "Clique em Download para ver instantaneamente mais informações",
+        "deleteText": "This work has been deleted",
+        "seeMore": "Abra o Noona para ver mais conteúdo interessante",
+        "deleteWorks": "This work has been deleted",
+        "regionLimit": "The work cannot be viewed in your area due to copyright restrictions"
+      },
+      "video": {
+        "open": "Aberto",
+        "replay": "Repita",
+        "keepPlaying": "Continue assistindo",
+        "moreVideo": "Mais Obras",
+        "end": "Já no final",
+        "tips1": "Usando a rede de dados móveis",
+        "tips2": "seja para continuar jogando",
+        "cancelBtn": "Cancelar",
+        "continueBtn": "Continue",
+        "failedLoad": "Carregamento de vídeo falhou",
+        "retryBtn": "Tente novamente"
+      },
+      "user": {
+        "followers": "Fãs",
+        "following": "Seguindo",
+        "hearts": "Corações",
+        "followBtn": "Seguir",
+        "noVideo": "Por enquanto não há vídeos",
+        "works": "Obras",
+        "likes": "Gostos",
+        "commentBtn": "Comentário",
+        "likesBtn": "Gostar",
+        "shareBtn": "Compartilhar"
+      },
+      "invite": {
+        "inviteTitle": "Baixe Noona",
+        "inviteSubTitle": "Para me ajudar a obter força física",
+        "inviteTxt": "Convida você a ajudar ele(ela) a obter força física",
+        "inviteCode": "Código de convite",
+        "copyBtn": "Copiar",
+        "downloadBtn": "Baixe Noona para saber mais"
+      }
+    },
+    "task": {
+      "center": {
+        "title": "Centro de força física",
+        "NativeNavSubTitle": "Preencha o código de convite",
+        "inviteFriendsShareTitle": "Venha para Noona, ajude-me a obter força física.",
+        "inviteFriendsShareDesc": "Noona é uma comunidade de compartilhamento de vídeos curta e divertida",
+        "subTitle": "Faça tarefas, obtenha forças físicas",
+        "strengthFull": "A força física está cheia",
+        "strengthCountDown": "A força física pode ser totalmente restaurada após",
+        "strengthTitle": "Descrição de força física",
+        "strengthSubTitle1": "Obtenha forças físicas",
+        "strengthGet1": "Faça tarefas, obtenha forças físicas",
+        "strengthGet2": "A força física recupera automática 10 a cada hora",
+        "strengthGet3": "O primeiro registro bem sucedido, adicione 10 à força física, aumenta 10 à limite superior de força física",
+        "strengthSubTitle2": "Consumo de força física",
+        "strengthUse1": "Assista ao vídeo, força física menos 1",
+        "strengthUse2": "Baixe vídeo, força física menos 2",
+        "strengthMark": "Nota: Atualizações de dados de força física podem ser atrasadas",
+        "inviteTitle1": "Insira o código de convite",
+        "inviteTitle2": "Ajudar ele(ela) a obter força física!",
+        "inviteInput": "Insira o código de convite",
+        "inviteInputError": "O código de convite é inválido!",
+        "inviteInputAlready": "Você já preencheu o código de convite!",
+        "inviteInputSuccess": "O código de convite é verificado com sucesso!",
+        "inviteInputSuccessTips1": "Convida amigos para obter forças físicas",
+        "inviteInputSuccessTips2": "Rapidamente convidar amigos",
+        "inviteBtnWant": "Quero convidar",
+        "inviteBtn": "Confirmar",
+        "copyRight": "O direito de interpretação final pertence a Noona."
+      }
+    },
+    "wallet": {
+      "index": {
+        "title": "Carteira",
+        "NativeNavSubTitle": "Ajudar",
+        "currentIncome": "Ganho atual",
+        "historyIncome": "Ganho histórica total",
+        "recentIncomeRecord": "Registro de ganhos recentes",
+        "transactionRecord": "Registro de transação",
+        "noRecord": "Você ainda não tem nenhum registro de ganho, vá agora para postar um vídeo"
+      },
+      "transaction" : {
+        "title": "Registro de transação",
+        "noRecord": "Nenhum histórico de transações~"
+      }
+    },
+    "media": {
+      "news": {
+        "followBtn": "Seguindo",
+        "followedBtn": "Seguiu",
+        "moreNews": "Mais informação",
+        "openBtn": "Abra o Noona para saber mais"
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "seo": {
+      "title": "Read massive amounts of information anytime",
+      "keywords": "Information",
+      "description": "Get hot news in the first place",
+      "descriptions": "Share your life here and find some friends. Simple to use: open the app，click and watch your favorite short videos anytime, anywhere you want! Go find funs from the awesome content now！ Don’t forget to share！"
+    },
+    "share": {
+      "common": {
+        "title": "Noona",
+        "desc": "Massive information reading platform",
+        "loading": "Loading...",
+        "loadRetry": "Failed to load, click to try again",
+        "download": "Download",
+        "nofound": "The page you tried is not exist",
+        "nofoundTip": "Download for more awesome information!",
+        "deleteText": "This work has been deleted",
+        "seeMore": "Open Noona for more awesome information！",
+        "deleteWorks": "This work has been deleted",
+        "regionLimit": "The work cannot be viewed in your area due to copyright restrictions"
+      },
+      "video": {
+        "open": "Open",
+        "replay": "Replay",
+        "keepPlaying": "Keep playing",
+        "moreVideo": "More Works",
+        "end": "Already in the end",
+        "tips1": "Using mobile data network",
+        "tips2": "whether to continue playing",
+        "cancelBtn": "Cancel",
+        "continueBtn": "Continue",
+        "failedLoad": "Video loading failed",
+        "retryBtn": "Retry"
+      },
+      "user": {
+        "followers": "Follower",
+        "following": "Following",
+        "hearts": "Hearts",
+        "followBtn": "Follow",
+        "noVideo": "No post yet",
+        "works": "Posts",
+        "likes": "Likes",
+        "commentBtn": "Comment",
+        "likesBtn": "Like",
+        "shareBtn": "Share"
+      },
+      "invite": {
+        "shareTitle": "Invite friends to win cash",
+        "shareDesc": "Invite friends to earn up to 100 coins everyday!",
+        "topTips": "BRING TOGETHER LOCAL NEWS",
+        "title": "Win Your Reward",
+        "subTitleNum": "5",
+        "subTitle": "coins for Singing up",
+        "inviteTxt": "Wants to share a fortune",
+        "copyTxt": "Enter invitation code and sign up",
+        "inviteCodeTxt": "Invitation code",
+        "btnCopyTxt": "Copy",
+        "btnDownloadTxt": "Download to claim your rewards"
+      }
+    },
+    "media": {
+      "news": {
+        "followBtn": "Follow",
+        "followedBtn": "Following",
+        "moreNews": "More information",
+        "openBtn": "Open Noona to read more"
+      }
+    },
+    "treasure": {
+      "title": "₱1 Game",
+      "issueNumber": "Record:",
+      "Total":"Total:",
+      "Remaining":"Remaining:",
+      "SelectedParticipants":"Select the number of slots:",
+      "SelectedParticiPay":"Pay for your slots:",
+      "Need":"Need ₱",
+      "More":"More",
+      "CHECKOUTNOW":"CHECKOUT NOW",
+      "productDetails":"Product Details:",
+      "Confirm":"Confirm",
+      "mustNumber":"Must link phone number",
+      "Betwait":"Reserving slots… please wait a moment",
+      "Congratulations":"Congratulations, you bet",
+      "successfullyParticipated":"You have successfully participated in ",
+      "view":"Check",
+      "participatedPurchase":"You have participated in the activity",
+      "WaitingDraw":"Waiting for the draw!",
+      "calculationWill":"The raffle will be drawn a few minutes!",
+      "betNumber":"No. of Slots:",
+      "luckyNumber":"Winning Entry:",
+      "seeMore":"Check",
+      "CongratulationsID":"Wow!",
+      "Acquire":"Won a",
+      "nickname":"Nickname:",
+      "Balance":"Balance: ₱",
+      "needYou":"You need ₱",
+      "insufficient": "Balance insufficient.",
+      "winningRecord":"No winning record",
+      "availableCurrent":"Limit exceeded,Order adjusted.",
+      "Sorry":"Sorry!",
+      "notEnough":"Not enough people joined.The amount has been refunded to your account.",
+      "LimitExceeded":"Limit exceeded"
+    }
+  }
+}

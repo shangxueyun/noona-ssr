@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "seo": {
+      "title": "いつでも多くの情報を読む",
+      "keywords": "情報",
+      "description": "ホットニュースを初めて理解する",
+      "descriptions": "ここであなたの人生を共有し、いくつかの友人を見つける、操作は非常にシンプルで、ちょうどあなたが好きな小さなビデオをクリックして、いつでもそれを見て、瞬間を楽しむ、あなたはまた、両側にソーシャルネットワークを介してこの幸せを共有することができます 友人。"
+    },
+    "share": {
+      "common": {
+        "title": "Noona",
+        "desc": "大量の情報を読むプラットフォーム",
+        "loading": "読み込み中...",
+        "loadRetry": "読み込みに失敗しました、をクリックしてもう一度お試しください",
+        "download": "ダウンロードします",
+        "nofound": "アクセスしたページはありません！",
+        "nofoundTip": "ダウンロードをクリックすると詳細情報が即座に表示されます",
+        "deleteText": "This work has been deleted",
+        "seeMore": "ニュースパークでもっとエキサイティングなコンテンツを見る",
+        "deleteWorks": "This work has been deleted",
+        "regionLimit": "The work cannot be viewed in your area due to copyright restrictions"
+      },
+      "video": {
+        "open": "開く",
+        "replay": "もう一回再生",
+        "keepPlaying": "続けて見ます",
+        "moreVideo": "もっと多い作品",
+        "end": "既に終わり",
+        "tips1": "モバイルデータネットワークを使用して、",
+        "tips2": "再生を継続するかどうか",
+        "cancelBtn": "キャンセル",
+        "continueBtn": "続ける",
+        "failedLoad": "読み込み失敗",
+        "retryBtn": "再試行"
+      },
+      "user": {
+        "followers": "ファン",
+        "following": "フォロー中",
+        "hearts": "ハーツ",
+        "followBtn": "フォロー",
+        "noVideo": "ビデオはありません",
+        "works": "作品",
+        "likes": "好き",
+        "commentBtn": "コメント",
+        "likesBtn": "好き",
+        "shareBtn": "シェア"
+      },
+      "invite": {
+        "inviteTitle": "Seelyをダウンロード",
+        "inviteSubTitle": "私の体力獲得へサポート",
+        "inviteTxt": "あなたを体力獲得のために招請しました",
+        "inviteCode": "招請番号",
+        "copyBtn": "コピー",
+        "downloadBtn": "Noonaをダウンロード　もっと詳しい情報を"
+      }
+    },
+    "task": {
+      "center": {
+        "title": "体力センター",
+        "NativeNavSubTitle": "招請番号入力",
+        "inviteFriendsShareTitle": "Noonaに来て、体力を得るのを助けてください。",
+        "inviteFriendsShareDesc": "Noonaは楽しい短いビデオ共有コミュニティです",
+        "subTitle": "任務を終えて体力を獲得",
+        "strengthFull": "体力満量",
+        "strengthCountDown": "後に体力は完全に回復できる",
+        "strengthTitle": "体力説明",
+        "strengthSubTitle1": "体力獲得",
+        "strengthGet1": "任務を獲得",
+        "strengthGet2": "一時間毎に自動回復、体力に10を上げる",
+        "strengthGet3": "初回登録成長すると、体力に10を上げ、体力上限に10を上げる",
+        "strengthSubTitle2": "体力消耗",
+        "strengthUse1": "ビデオを再生すると、体力は1を下げる",
+        "strengthUse2": "ビデオをダウンロードすると、体力は2を下げる",
+        "strengthMark": "注：体力データ更新は遅れる時がある",
+        "inviteTitle1": "友人の招請番号入力",
+        "inviteTitle2": "彼の体力獲得へサポート",
+        "inviteInput": "招請番号入力",
+        "inviteInputError": "招請番号無効！",
+        "inviteInputAlready": "あなたは既に招請番号を入力しました!",
+        "inviteInputSuccess": "招請検証は成功しました!",
+        "inviteInputSuccessTips1": "友人を招請すると、体力を獲得。",
+        "inviteInputSuccessTips2": "すぐに友人を招請。",
+        "inviteBtnWant": "私は招請したい",
+        "inviteBtn": "確認",
+        "copyRight": "最終的な解釈はNoonaが所有しています。."
+      }
+    },
+    "wallet": {
+      "index": {
+        "title": "財布",
+        "NativeNavSubTitle": "ヘルプセンター",
+        "currentIncome": "当期収益",
+        "historyIncome": "過去収益合計",
+        "recentIncomeRecord": "最近収益記録",
+        "transactionRecord": "取引記録",
+        "noRecord": "あなたはまだ収益記録がありません、速くビデオを発表して下さい。"
+      },
+      "transaction" : {
+        "title": "取引記録",
+        "noRecord": "取取引記録はありません~"
+      }
+    },
+    "media": {
+      "news": {
+        "followBtn": "フォロー中",
+        "followedBtn": "続く",
+        "moreNews": "詳しくは",
+        "openBtn": "ニュースパークを開いてもっと読む"
+      }
+    }
+  }
+}

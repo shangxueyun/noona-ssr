@@ -1,0 +1,44 @@
+@mixin border-x($width:1px, $color:$color-white) {
+  border: $width solid $color;
+  [data-dpr="2"] & {
+    border: $width * 2 solid $color;
+  }
+  [data-dpr="3"] & {
+    border: $width * 3 solid $color;
+  }
+}
+
+@mixin border-top-x($width:1px, $color:$color-white) {
+  border-top: $width solid $color;
+  [data-dpr="2"] & {
+    border-top: $width * 2 solid $color;
+  }
+  [data-dpr="3"] & {
+    border-top: $width * 3 solid $color;
+  }
+}
+
+@mixin border-bottom-x($width:1px, $color:$color-white) {
+  border-bottom: $width solid $color;
+  [data-dpr="2"] & {
+    border-bottom: $width * 2 solid $color;
+  }
+  [data-dpr="3"] & {
+    border-bottom: $width * 3 solid $color;
+  }
+}
+
+@mixin border-top-bottom($width:1px, $color:$color-white) {
+  @include border-top-x($width, $color);
+  @include border-bottom-x($width, $color);
+}
+
+@mixin border-left-x($width:1px, $color:$color-white) {
+  border-left: $width solid $color;
+  [data-dpr="2"] & {
+    border-left: $width * 2 solid $color;
+  }
+  [data-dpr="3"] & {
+    border-left: $width * 3 solid $color;
+  }
+}

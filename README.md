@@ -1,2 +1,22 @@
-# noona-ssr
-现手上vue-nuxt请求服务渲染head，针对vue SEO优化处理，服务器本地serve
+# noona
+
+> My astonishing Nuxt.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ yarn install
+
+# serve with hot reload at localhost:3000
+$ yarn run dev
+
+# build for production and launch server
+$ yarn run build
+$ yarn start
+
+# generate static project
+$ yarn run generate
+```
+
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).

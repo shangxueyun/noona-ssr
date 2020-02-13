@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "seo": {
+      "title": "Baca banyak informasi kapan saja",
+      "keywords": "Informasi",
+      "description": "Pertama kali memahami berita panas",
+      "descriptions": "Bagikan kehidupan Anda di sini dan temukan beberapa teman, operasinya sangat sederhana, cukup buka aplikasi, klik pada video kecil yang Anda suka, tonton kapan saja, nikmati momen itu, Anda juga dapat berbagi kebahagiaan ini melalui jejaring sosial ke samping Setiap teman."
+    },
+    "share": {
+      "common": {
+        "title": "Noona",
+        "desc": "Platform membaca informasi besar-besaran!",
+        "loading": "Memuat...",
+        "loadRetry": "Gagal memuat, klik untuk mencoba lagi",
+        "download": "Unduh",
+        "nofound": "Halaman yang diakses tidak ada!",
+        "nofoundTip": "Klik Unduh untuk langsung melihat informasi lebih lanjut",
+        "deleteText": "This work has been deleted",
+        "seeMore": "Buka Noona untuk melihat konten yang lebih menarik",
+        "deleteWorks": "This work has been deleted",
+        "regionLimit": "The work cannot be viewed in your area due to copyright restrictions"
+      },
+      "video": {
+        "open": "Buka",
+        "replay": "Putar lagi",
+        "keepPlaying": "Teruslah menonton",
+        "moreVideo": "Lebih banyak karya",
+        "end": "Sudah pada akhirnya",
+        "tips1": "Menggunakan jaringan data seluler",
+        "tips2": ",apakah akan terus bermain",
+        "cancelBtn": "Batalkan",
+        "continueBtn": "Lanjutkan",
+        "failedLoad": "Pemuatan video gagal",
+        "retryBtn": "Coba lagi"
+      },
+      "user": {
+        "followers": "Fan",
+        "following": "Mengikuti",
+        "hearts": "Hati",
+        "followBtn": "Perhatikan",
+        "noVideo": "Belum ada video",
+        "works": "Karya",
+        "likes": "Suka",
+        "commentBtn": "Komentar",
+        "likesBtn": "Suka",
+        "shareBtn": "Bagikan"
+      },
+      "invite": {
+        "inviteTitle": "Download Seely",
+        "inviteSubTitle": "membantu saya mendapatkan kekuatan fisik",
+        "inviteTxt": "mengundang anda, membantu dia mendapatkan kekuatan fisik",
+        "inviteCode": "Kode undangan",
+        "copyBtn": "Salin",
+        "downloadBtn": "Download  Seely mempelajari lebih lanjut"
+      }
+    },
+    "task": {
+      "center": {
+        "title": "Pusat fisik",
+        "NativeNavSubTitle": "Isi kode undangan",
+        "inviteFriendsShareTitle": "Datanglah ke Noona, bantu saya mendapatkan kekuatan fisik.",
+        "inviteFriendsShareDesc": "Noona adalah komunitas berbagi video pendek yang menyenangkan",
+        "subTitle": "Lakukan tugas, mendapatkan fisik",
+        "strengthFull": "Kekuatan fisik sudah penuh ",
+        "strengthCountDown": "Kekuatan fisik dapat sepenuhnya dikembalikan setelah",
+        "strengthTitle": "Penjelasan fisik",
+        "strengthSubTitle1": "Kekuatan fisik mendapatkan",
+        "strengthGet1": "Melaksanakan tugas",
+        "strengthGet2": "Pemulihan otomatis setiap jam, kekuatan fisik tambah 10",
+        "strengthGet3": "Berhasi login pada pertama kali mendapatkan kekuatan fisik 10, perbatasan kekuatan fisik ditambah 10",
+        "strengthSubTitle2": "Pengurasan kekuatan fisik",
+        "strengthUse1": "Menonton video, kekuatan fisik berkurang 1",
+        "strengthUse2": "Download video, kekuatan fisik berkurang 2",
+        "strengthMark": "Note: Perbaruan data kekuatan fisik mungkin tertunda",
+        "inviteTitle1": "Masukkan kode undangan",
+        "inviteTitle2": "mengundang anda, membantu dia mendapatkan kekuatan fisik",
+        "inviteInput": "Masukkan kode undangan",
+        "inviteInputError": "Kode undangan invalid",
+        "inviteInputAlready": "Anda telah mengisi kode undangan",
+        "inviteInputSuccess": "Verikasi kode undangan berhasil",
+        "inviteInputSuccessTips1": "Mengundang teman baik mendapatkan kekuatan fisik",
+        "inviteInputSuccessTips2": " cepatlah bergabung",
+        "inviteBtnWant": "Saya mau mengundang",
+        "inviteBtn": "Konfirmasikan",
+        "copyRight": "Penafsiran akhir benar milik Noona all."
+      }
+    },
+    "wallet": {
+      "index": {
+        "title": "Dompet saya",
+        "NativeNavSubTitle": "Pusat bantuan",
+        "currentIncome": "Penghasilan saat ini",
+        "historyIncome": "Penghasilan saat ini",
+        "recentIncomeRecord": "Rekor penghasilan terbaru",
+        "transactionRecord": "Catatan transaksi",
+        "noRecord": "Kamu belum ada rekord penghasilan, ayo cepatlah posting video. "
+      },
+      "transaction" : {
+        "title": "Catatan transaksi",
+        "noRecord": "Tidak ada riwayat transaksi"
+      }
+    },
+    "media": {
+      "news": {
+        "followBtn": "Mengikuti",
+        "followedBtn": "Prihatin",
+        "moreNews": "Informasi lebih lanjut",
+        "openBtn": "Buka Noona untuk mempelajari lebih lanjut"
+      }
+    }
+  }
+}

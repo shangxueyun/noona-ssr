@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "seo": {
+      "title": "Read massive amounts of information anytime",
+      "keywords": "Information",
+      "description": "Get hot news in the first place",
+      "descriptions": "Share your life here and find some friends. Simple to use: open the app，click and watch your favorite short videos anytime, anywhere you want! Go find funs from the awesome content now！ Don’t forget to share！"
+    },
+    "share": {
+      "common": {
+        "title": "Noona",
+        "desc": "Massive information reading platform",
+        "loading": "Loading...",
+        "loadRetry": "Failed to load, click to try again",
+        "download": "Download",
+        "nofound": "The page you tried is not exist",
+        "nofoundTip": "Download for more awesome information!",
+        "deleteText": "This work has been deleted",
+        "seeMore": "Open Noona for more awesome information！",
+        "deleteWorks": "This work has been deleted",
+        "regionLimit": "The work cannot be viewed in your area due to copyright restrictions"
+      },
+      "video": {
+        "open": "Open",
+        "replay": "Replay",
+        "keepPlaying": "Keep playing",
+        "moreVideo": "More Works",
+        "end": "Already in the end",
+        "tips1": "Using mobile data network",
+        "tips2": "whether to continue playing",
+        "cancelBtn": "Cancel",
+        "continueBtn": "Continue",
+        "failedLoad": "Video loading failed",
+        "retryBtn": "Retry"
+      },
+      "user": {
+        "followers": "Follower",
+        "following": "Following",
+        "hearts": "Hearts",
+        "followBtn": "Follow",
+        "noVideo": "No post yet",
+        "works": "Posts",
+        "likes": "Likes",
+        "commentBtn": "Comment",
+        "likesBtn": "Like",
+        "shareBtn": "Share"
+      },
+      "invite": {
+        "inviteTitle": "Download Noona",
+        "inviteSubTitle": "Earn more energy",
+        "inviteTxt": "Invite you to help getting more energy",
+        "inviteCode": "Invitation code",
+        "copyBtn": "Copy",
+        "downloadBtn": "Download Noona to learn more"
+      }
+    },
+    "task": {
+      "center": {
+        "title": "Energy Center",
+        "NativeNavSubTitle": "Enter your invitation code",
+        "inviteFriendsShareTitle": "Come to Noona, help me get physical strength.",
+        "inviteFriendsShareDesc": "Noona is a fun short video sharing community",
+        "subTitle": "Finish some tasks to earn more energy",
+        "strengthFull": "Your energy is full",
+        "strengthCountDown": "Your energy will be back to full after ",
+        "strengthTitle": "Energy description",
+        "strengthSubTitle1": "Earn energy",
+        "strengthGet1": "Finish tasks",
+        "strengthGet2": "Hourly auto-recover, energy + 10",
+        "strengthGet3": "Register and log in (first time), energy + 10, energy limit + 10",
+        "strengthSubTitle2": "Use energy",
+        "strengthUse1": "Watch a video, energy - 1",
+        "strengthUse2": "Download a video, energy - 2",
+        "strengthMark": "Note: There may be delay in updating energy data",
+        "inviteTitle1": "Enter invitation code",
+        "inviteTitle2": "Help friends",
+        "inviteInput": "Enter invitation code",
+        "inviteInputError": "Invitation code is invalid",
+        "inviteInputAlready": "You have entered an invitation code before",
+        "inviteInputSuccess": "Invitation code verified",
+        "inviteInputSuccessTips1": "Invite your friends to earn energy",
+        "inviteInputSuccessTips2": "Action now",
+        "inviteBtnWant": "I want to invite",
+        "inviteBtn": "Confirm",
+        "copyRight": "The final interpretation right belongs to Noona all"
+      }
+    },
+    "wallet": {
+      "index": {
+        "title": "Wallet",
+        "NativeNavSubTitle": "Help Center",
+        "currentIncome": "Current earning",
+        "historyIncome": "Accumulated earning",
+        "recentIncomeRecord": "Recent earning history",
+        "transactionRecord": "Transaction history",
+        "noRecord": "You dont have any earning history. Post some videos now!"
+      },
+      "transaction" : {
+        "title": "Transaction history",
+        "noRecord": "You dont have any transaction history"
+      }
+    },
+    "media": {
+      "news": {
+        "followBtn": "Follow",
+        "followedBtn": "Following",
+        "moreNews": "More information",
+        "openBtn": "Open Noona to read more"
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "seo": {
+      "title": "隨時閱讀海量資訊",
+      "keywords": "資訊",
+      "description": "第一時間了解熱點資訊",
+      "descriptions": "在這里分享生活，遇到朋友，操作非常簡單，只要打開APP，點擊你喜歡的小視頻，隨時隨地觀看，享受當下這份快樂時光，你還可以把這份快樂通過社交網絡分享給身邊的每一位朋友。"
+    },
+    "share": {
+      "common": {
+        "title": "Noona",
+        "desc": "海量資訊閱讀平台",
+        "loading": "加載中...",
+        "loadRetry": "加載失敗，點擊重試",
+        "download": "去下載",
+        "nofound": "訪問的頁面不存在！",
+        "nofoundTip": "點擊下載，即刻瀏覽更多資訊！",
+        "deleteText": "This work has been deleted",
+        "seeMore": "打開Noona，查看更多精彩內容",
+        "deleteWorks": "This work has been deleted",
+        "regionLimit": "The work cannot be viewed in your area due to copyright restrictions"
+      },
+      "video": {
+        "open": "打開",
+        "replay": "重播",
+        "keepPlaying": "繼續觀看",
+        "moreVideo": "更多作品",
+        "end": "已經到底了",
+        "tips1": "正在使用移動數據網絡",
+        "tips2": "是否繼續播放",
+        "cancelBtn": "取消",
+        "continueBtn": "繼續",
+        "failedLoad": "視頻加載失敗",
+        "retryBtn": "重試"
+      },
+      "user": {
+        "followers": "粉絲",
+        "following": "關注",
+        "hearts": "熱度",
+        "followBtn": "關 注",
+        "noVideo": "暫無視頻",
+        "works": "作品",
+        "likes": "喜歡",
+        "commentBtn": "評論",
+        "likesBtn": "贊",
+        "shareBtn": "分享"
+      },
+      "invite": {
+        "inviteTitle": "下载Noona",
+        "inviteSubTitle": "助我得體力",
+        "inviteTxt": "邀你助Ta得體力",
+        "inviteCode": "邀請碼",
+        "copyBtn": "複製",
+        "downloadBtn": "下載Noona，了解更多"
+      }
+    },
+    "task": {
+      "center": {
+        "title": "體力中心",
+        "NativeNavSubTitle": "填寫邀請碼",
+        "inviteFriendsShareTitle": "快来Noona，助我得體力吧",
+        "inviteFriendsShareDesc": "Noona是一個有趣短視頻分享社區",
+        "subTitle": "做任務 得體力",
+        "strengthFull": "體力已滿",
+        "strengthCountDown": "後體力可完全恢復",
+        "strengthTitle": "體力說明",
+        "strengthSubTitle1": "體力獲得",
+        "strengthGet1": "做任務獲得",
+        "strengthGet2": "每小時自動恢復，體力+10",
+        "strengthGet3": "首次註冊登錄，體力+10，體力上限+10",
+        "strengthSubTitle2": "體力消耗",
+        "strengthUse1": "觀看視頻，體力-1",
+        "strengthUse2": "下載視頻，體力-2",
+        "strengthMark": "注：體力數據的更新可能會有延遲",
+        "inviteTitle1": "輸入好友邀請碼",
+        "inviteTitle2": "助Ta得體力!",
+        "inviteInput": "輸入邀請碼",
+        "inviteInputError": "邀請碼無效！",
+        "inviteInputAlready": "你已填過邀請碼!",
+        "inviteInputSuccess": "邀請碼驗證成功!",
+        "inviteInputSuccessTips1": "邀請好友得體力",
+        "inviteInputSuccessTips2": "趕快邀請好友吧",
+        "inviteBtnWant": "我要邀請",
+        "inviteBtn": "確認",
+        "copyRight": "最終解釋權歸 Noona 所有."
+      }
+    },
+    "wallet": {
+      "index": {
+        "title": "錢包",
+        "NativeNavSubTitle": "幫助中心",
+        "currentIncome": "本期收益(LuckyCion)",
+        "historyIncome": "歷史總收益(LuckyCion)",
+        "recentIncomeRecord": "近期收益記錄",
+        "transactionRecord": "交易記錄",
+        "noRecord": "你還沒有收益記錄哦，趕緊去發布視頻吧"
+      },
+      "transaction" : {
+        "title": "交易記錄",
+        "noRecord": "暫無交易記錄~"
+      }
+    },
+    "media": {
+      "news": {
+        "followBtn": "關注",
+        "followedBtn": "已關注",
+        "moreNews": "更多資訊",
+        "openBtn": "打开Noona，了解更多"
+      }
+    }
+  }
+}

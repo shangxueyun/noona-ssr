@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  //-webkit-user-select: none; // 禁止选择复制
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+em,
+i {
+  font-style: normal;
+}
+
+input,
+img {
+  vertical-align: middle;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  font-size: 50px;
+  background: #FFF;
+  margin: 0 auto;
+  // width: 100%;
+  // min-height: 100vh;
+  //font-family: 'Helvetica Neue', Helvetica, STHeiTi, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", STHeiti, "Microsoft Yahei", Tahoma, Simsun, sans-serif;
+  -webkit-text-size-adjust: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  padding-top: constant(safe-area-inset-top);
+  padding-bottom: constant(safe-area-inset-bottom);
+}
+
+[id ^=cnzz_stat_icon_] {
+  display: none;
+}
+
+.main-container {
+  position: relative;
+  max-width: 750px; /*no*/
+  width: 100%;
+  // min-height: 100vh;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.no-ssr-placeholder {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 14px;
+  color: #A2A3A5;
+}

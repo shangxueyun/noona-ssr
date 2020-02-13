@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "seo": {
+      "title": "Lire beaucoup d'informations à tout moment",
+      "keywords": "Les informations",
+      "description": "La première fois pour comprendre les nouvelles chaudes",
+      "descriptions": "Partagez votre vie ici et trouvez des amis, l'opération est très simple, ouvrez simplement l'application, cliquez sur la petite vidéo que vous aimez, regardez-la à tout moment, profitez du moment, vous pouvez également partager ce bonheur avec vous. Chaque ami"
+    },
+    "share": {
+      "common": {
+        "title": "Noona",
+        "desc": "Plate-forme de lecture d'information massive!",
+        "loading": "Chargement...",
+        "loadRetry": "Échec du chargement, cliquez pour réessayer",
+        "download": "Allez télécharger",
+        "nofound": "La page consultée n'existe pas！",
+        "nofoundTip": "Cliquez sur Télécharger pour afficher instantanément plus d'informations",
+        "deleteText": "This work has been deleted",
+        "seeMore": "Open Noona pour voir du contenu plus excitant",
+        "deleteWorks": "This work has been deleted",
+        "regionLimit": "The work cannot be viewed in your area due to copyright restrictions"
+      },
+      "video": {
+        "open": "Ouvert",
+        "replay": "Rejouer",
+        "keepPlaying": "Continuez à regarder",
+        "moreVideo": "Plus de oeuvres",
+        "end": "Déjà à la fin",
+        "tips1": "Utilisation du réseau de données mobile",
+        "tips2": "continuer à jouer ou non",
+        "cancelBtn": "Annuler",
+        "continueBtn": "Continuer",
+        "failedLoad": "Échec du chargement de la vidéo",
+        "retryBtn": "Réessayer"
+      },
+      "user": {
+        "followers": "Fans",
+        "following": "Abonnements",
+        "hearts": "Cœurs",
+        "followBtn": "Suivre",
+        "noVideo": "Pas encore de vidéo",
+        "works": "Oeuvres",
+        "likes": "Comme",
+        "commentBtn": "Commentaire",
+        "likesBtn": "Comme",
+        "shareBtn": "Partager"
+      },
+      "invite": {
+        "inviteTitle": "Téléchargez Seely",
+        "inviteSubTitle": "Pour m'aider à avoir de la force physique",
+        "inviteTxt": "vous invite à aider Ta à avoir de la force physique",
+        "inviteCode": "Code",
+        "copyBtn": "Copier",
+        "downloadBtn": "Télécharger Noona En savoir plus"
+      }
+    },
+    "task": {
+      "center": {
+        "title": "Centre de la force",
+        "NativeNavSubTitle": "Remplissez le code d'invitation ",
+        "inviteFriendsShareTitle": "Viens à Noona, aide-moi à avoir de la force physique.",
+        "inviteFriendsShareDesc": "Noona est une communauté de partage de vidéos courte et amusante",
+        "subTitle": "Faites la tâche, obtenez de la force physique",
+        "strengthFull": "La force physique est pleine",
+        "strengthCountDown": "La force physique peut être entièrement restaurée après",
+        "strengthTitle": "Explication physique",
+        "strengthSubTitle1": "Force physique",
+        "strengthGet1": "Faire la tâche",
+        "strengthGet2": "Récupération automatique toutes les heures, force physique plus 10",
+        "strengthGet3": "Le premier enregistrement réussi de la force physique plus 10, la force physique plus 10",
+        "strengthSubTitle2": "Effort physique",
+        "strengthUse1": "Regardez la vidéo, force physique moins 1",
+        "strengthUse2": "Télécharger la vidéo, force physique moins 2",
+        "strengthMark": "Remarque: les mises à jour des données de résistance physique peuvent être retardées",
+        "inviteTitle1": "Entrez le code d'invitation",
+        "inviteTitle2": "Vous invite à aider Ta à avoir de la force physique",
+        "inviteInput": "Entrez le code d'invitation",
+        "inviteInputError": "Code d'invitation invalide",
+        "inviteInputAlready": "Vous avez rempli le code d'invitation",
+        "inviteInputSuccess": "La vérification du code d'invitation a réussi",
+        "inviteInputSuccessTips1": "Invitez vos amis à être physiquement actifs",
+        "inviteInputSuccessTips2": "et venez nous rejoindre.",
+        "inviteBtnWant": "Je veux inviter",
+        "inviteBtn": "Confirmer",
+        "copyRight": "L'interprétation finale appartient à Noona all."
+      }
+    },
+    "wallet": {
+      "index": {
+        "title": "Mon portefeuille",
+        "NativeNavSubTitle": "Centre d'aide",
+        "currentIncome": "Revenu courant",
+        "historyIncome": "Revenu historique total",
+        "recentIncomeRecord": "Record de bénéfices récents",
+        "transactionRecord": "Enregistrement de transaction",
+        "noRecord": "Vous n'avez pas encore de fiche de profit, alors postez la vidéo."
+      },
+      "transaction" : {
+        "title": "Enregistrement de transaction",
+        "noRecord": "Aucun historique des transactions"
+      }
+    },
+    "media": {
+      "news": {
+        "followBtn": "Abonnements",
+        "followedBtn": "Concerné",
+        "moreNews": "Plus d'informations",
+        "openBtn": "Open Noona et en savoir plus"
+      }
+    }
+  }
+}

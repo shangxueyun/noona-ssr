@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "seo": {
+      "title": "อ่านข้อมูลจำนวนมากได้ตลอดเวลา",
+      "keywords": "ข้อมูล",
+      "description": "เป็นครั้งแรกที่เข้าใจข่าวร้อน",
+      "descriptions": "แบ่งปันชีวิตของคุณที่นี่และหาเพื่อนบางคน app ให้คลิกที่วิดีโอขนาดเล็กที่คุณต้องการดูได้ทุกเวลาเพลิดเพลินไปกับช่วงเวลานี้คุณยังสามารถแบ่งปันความสุขนี้ผ่านทางเครือข่ายสังคมไปด้านข้าง เพื่อนทุกคน"
+    },
+    "share": {
+      "common": {
+        "title": "Noona",
+        "desc": "เวทีการอ่านข้อมูลอย่างใหญ่โต",
+        "loading": "กำลังโหลด...",
+        "loadRetry": "ไม่สามารถโหลดคลิกเพื่อลองอีกครั้ง",
+        "download": "ไปดาวน์โหลด",
+        "nofound": "หน้าเว็บที่เข้าชมไม่มีอยู่!",
+        "nofoundTip": "คลิกดาวน์โหลดเพื่อดูข้อมูลเพิ่มเติมทันที",
+        "deleteText": "This work has been deleted",
+        "seeMore": "เปิด Noona เพื่อดูเนื้อหาที่น่าตื่นเต้นมากขึ้น",
+        "deleteWorks": "This work has been deleted",
+        "regionLimit": "The work cannot be viewed in your area due to copyright restrictions"
+      },
+      "video": {
+        "open": "เปิด",
+        "replay": "เล่นใหม่",
+        "keepPlaying": "ดูต่อไป",
+        "moreVideo": "ผลงานเพิ่มเติม",
+        "end": "แล้วในตอนท้าย",
+        "tips1": "ใช้เครือข่ายข้อมูลมือถือ",
+        "tips2": "ว่าจะเล่นต่อหรือไม่",
+        "cancelBtn": "ยกเลิก",
+        "continueBtn": "ต่อ",
+        "failedLoad": "การโหลดวิดีโอล้มเหลว",
+        "retryBtn": "ลองใหม่อีกครั้ง"
+      },
+      "user": {
+        "followers": "แฟน ๆ",
+        "following": "ดังต่อไปนี้",
+        "hearts": "หัวใจ",
+        "followBtn": "ติดตาม",
+        "noVideo": "ยังไม่มีคลิปวิดีโอ",
+        "works": "งาน",
+        "likes": "ชอบ",
+        "commentBtn": "ทบทวน",
+        "likesBtn": "ชอบ",
+        "shareBtn": "หุ้น"
+      },
+      "invite": {
+        "inviteTitle": "ดาวน์โหลด Noona",
+        "inviteSubTitle": "เพื่อรับพลัง",
+        "inviteTxt": "เชิญคุณไปช้วย Ta รับกำลัง",
+        "inviteCode": "รหัสเชิญ",
+        "copyBtn": "สำเนา",
+        "downloadBtn": "ดาวน์โหลด Noona รับข้อมูลเพิ่มเติม"
+      }
+    },
+    "task": {
+      "center": {
+        "title": "ศูนย์พลัง",
+        "NativeNavSubTitle": "กรอกรหัสเชิญ",
+        "inviteFriendsShareTitle": "มาที่ Noona ช่วยให้ฉันมีกำลังกาย",
+        "inviteFriendsShareDesc": "Noona คือชุมชนแบ่งปันวิดีโอสั้น ๆ ที่สนุกสนาน",
+        "subTitle": "ทำภารกิจ ได้รับพลัง",
+        "strengthFull": "พลังเต็มแล้ว",
+        "strengthCountDown": "พลังสามารถเติมเต็มด้หลัง",
+        "strengthTitle": "คำอธิบายทางกายภาพ",
+        "strengthSubTitle1": "รับพลัง",
+        "strengthGet1": "ทำภารกิจ ได้รับพลัง",
+        "strengthGet2": "จะเติมเต็มพลังทุกชั่วโมงโดยอัตโนมัติ จะเพิ่มพลัง 10 หน่วย",
+        "strengthGet3": "การลงทะเบียนและเข้าระบบสำเร็จครั้งแรกจะเพิ่มพลัง 10 หน่วย และขีดจำกัดพลังสูงสุดจะเพิ่ม 10 ",
+        "strengthSubTitle2": "การใช้พลัง",
+        "strengthUse1": "ดูวิดีโอ ใช้พลัง 1 หน่วย",
+        "strengthUse2": "ดาวน์โหลดวิดีโอ ใช้พลัง 2 หน่วย",
+        "strengthMark": "หมายเหตุ การอัพเดทข้อมูลพลังอาจมีการล่าช้า",
+        "inviteTitle1": "ป้อนรหัสเชิญ",
+        "inviteTitle2": "เชิญคุณไปช้วย Ta รับกำลัง!",
+        "inviteInput": "ป้อนรหัสเชิญ",
+        "inviteInputError": "รหัสเชิญไม่ถูกต้อง！",
+        "inviteInputAlready": "คุณได้กรอกรหัสเชิญแล้ว!",
+        "inviteInputSuccess": "ยืนยันรหัสเชิญสำเร็จ!",
+        "inviteInputSuccessTips1": "เชิญเพื่อนเพื่อรับพลัง",
+        "inviteInputSuccessTips2": "จ้างเพื่อนเร็ว ๆ นี้",
+        "inviteBtnWant": "ฉันต้องการเชิญ",
+        "inviteBtn": "ยืนยัน",
+        "copyRight": "การตีความขั้นสุดท้ายที่ถูกต้องเป็นของ Noona ทั้งหมด"
+      }
+    },
+    "wallet": {
+      "index": {
+        "title": "กระเป๋าสตางค์",
+        "NativeNavSubTitle": "ศูนย์ช่วยเหลือ ",
+        "currentIncome": "รายได้ช่วงนี้",
+        "historyIncome": "รายได้รวม",
+        "recentIncomeRecord": "บันทึกรายได้ช่วงนี้",
+        "transactionRecord": "บันทึกการซื้อ",
+        "noRecord": "คุณยังไม่มีบันทึกรายได้ รีบไปโพสต์วิดีโอนะ"
+      },
+      "transaction" : {
+        "title": "บันทึกการซื้อ",
+        "noRecord": "ไม่มีประวัติการทำธุรกรรม~"
+      }
+    },
+    "media": {
+      "news": {
+        "followBtn": "ดังต่อไปนี้",
+        "followedBtn": "ดังต่อไปนี้",
+        "moreNews": "ข้อมูลเพิ่มเติม",
+        "openBtn": "เปิด Noona เพื่อเรียนรู้เพิ่มเติม"
+      }
+    }
+  }
+}

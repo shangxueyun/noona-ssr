@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "seo": {
+      "title": "Lee mucha información en cualquier momento",
+      "keywords": "Informacion",
+      "description": "La primera vez para entender las buenas noticias",
+      "descriptions": "Comparte tu vida aquí y encuentra algunos amigos.A través de sus poderosos algoritmos de recomendación con una gran cantidad de contenido,te satisface las necesidades personalizados para ampliar tus horizontes, divertirte o buscar novedades. Comparte tus alegríacon tus amigos en cualquier plataforma- ¡Facebook, Instagram o Twitter!"
+    },
+    "share": {
+      "common": {
+        "title": "Noona",
+        "desc": "Plataforma de lectura masiva de información",
+        "loading": "Cargando...",
+        "loadRetry": "No se pudo cargar, haga clic para volver a intentarlo",
+        "download": "Ir a descargar",
+        "nofound": "La página que usted busca no existe.",
+        "nofoundTip": "Haga clic en Descargar para ver al instante más información",
+        "deleteText": "This work has been deleted",
+        "seeMore": "Abre Noona para ver más contenido emocionante.",
+        "deleteWorks": "This work has been deleted",
+        "regionLimit": "The work cannot be viewed in your area due to copyright restrictions"
+      },
+      "video": {
+        "open": "Abrir",
+        "replay": "Reproducir de nuevo",
+        "keepPlaying": "Continuar viendo",
+        "moreVideo": "Más Obras",
+        "end": "Ya al final",
+        "tips1": "Utilizando red de datos móviles",
+        "tips2": "ya sea para continuar jugando",
+        "cancelBtn": "Cancelar",
+        "continueBtn": "Continuar",
+        "failedLoad": "Error al cargar el video",
+        "retryBtn": "Reintentar"
+      },
+      "user": {
+        "followers": "Fans",
+        "following": "Siguiendo",
+        "hearts": "Corazones",
+        "followBtn": "Seguir",
+        "noVideo": "No hay videos por el momento",
+        "works": "Obras",
+        "likes": "Gustos",
+        "commentBtn": "Comentar",
+        "likesBtn": "Me gusta",
+        "shareBtn": "Compartir"
+      },
+      "invite": {
+        "inviteTitle": "Descarga Noona",
+        "inviteSubTitle": "ayúdame para obtener puntos de vida",
+        "inviteTxt": "te invita a ayudarle a obtener puntos de vida",
+        "inviteCode": "Código de invitación",
+        "copyBtn": "Copia",
+        "downloadBtn": "Descarga Noona para conocer más"
+      }
+    },
+    "task": {
+      "center": {
+        "title": "Centro de salud",
+        "NativeNavSubTitle": "Rellena el código de invitación",
+        "inviteFriendsShareTitle": "Ven a Noona, ayúdame a obtener fuerza física.",
+        "inviteFriendsShareDesc": "Noona- la comunidad más popular de videos cortos recreativos",
+        "subTitle": "Realiza tareas para obtener puntos de vida",
+        "strengthFull": "puntos de vida están llenos",
+        "strengthCountDown": "se recuperan todos los puntos de vida",
+        "strengthTitle": "Explicación física",
+        "strengthSubTitle1": "Obtienes puntos de vida",
+        "strengthGet1": "Realiza tareas",
+        "strengthGet2": "Se recupera automáticamente por hora, y se añaden 10 a puntos de vida",
+        "strengthGet3": "Si inicias sesión y te registras por primera vez, se añaden 10 a puntos de vida, y 10 al límite superior de estos puntos",
+        "strengthSubTitle2": "Consumo de puntos de vida",
+        "strengthUse1": "Si ves el vídeo, se reduce 1 en los puntos de vida.",
+        "strengthUse2": "Si descargas el vídeo, se reducen 2 en los puntos de vida.",
+        "strengthMark": "Nota: La actualización de datos sobre puntos de vida puede retrasarse",
+        "inviteTitle1": "Ingresa el código de invitación",
+        "inviteTitle2": "Te invita a ayudarle a obtener puntos de vida",
+        "inviteInput": "Ingresa el código de invitación",
+        "inviteInputError": "El código de invitación está inválido",
+        "inviteInputAlready": "Has rellenado el código de invitación",
+        "inviteInputSuccess": "Se verifica con éxito el código de invitación",
+        "inviteInputSuccessTips1": "Invita a amigos para obtener puntos de vida, ven y únete",
+        "inviteInputSuccessTips2": "Ven y únete",
+        "inviteBtnWant": "Quiero invitar",
+        "inviteBtn": "Confirmar",
+        "copyRight": "El derecho de interpretación final pertenece a Noona all."
+      }
+    },
+    "wallet": {
+      "index": {
+        "title": "Mi monedero",
+        "NativeNavSubTitle": "Centro de ayuda",
+        "currentIncome": "Renta actual",
+        "historyIncome": "Renta total",
+        "recentIncomeRecord": "Registro de rentas recientes",
+        "transactionRecord": "Registro de transacciones",
+        "noRecord": "Todavía no tienes registros de rentas, ¡vete a publicar vídeos."
+      },
+      "transaction" : {
+        "title": "Registro de transacciones",
+        "noRecord": "Sin historial de transacciones"
+      }
+    },
+    "media": {
+      "news": {
+        "followBtn": "Siguiendo",
+        "followedBtn": "Preocupado",
+        "moreNews": "Mas informacion",
+        "openBtn": "Abre el Noona y lee más"
+      }
+    }
+  }
+}

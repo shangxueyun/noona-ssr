@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "seo": {
+      "title": "언제든지 많은 정보를 읽으십시오",
+      "keywords": "정보",
+      "description": "최신 뉴스를 최신으로 유지하십시오",
+      "descriptions": "너의 인생을 여기에서 공유하고 친구들을 찾아라.응용 프로그램을 엽니 다.좋아하는 작은 비디오를 클릭하십시오.언제 어디서나 시청하십시오.행복의 순간을 즐기십시오.소셜 네트워크를 통해이 행복을 주변 사람과 공유 할 수도 있습니다."
+    },
+    "share": {
+      "common": {
+        "title": "Noona",
+        "desc": "방대한 정보 열람 플랫폼",
+        "loading": "로드 중...",
+        "loadRetry": "로드하지 못했습니다. 다시 시도하려면 클릭하십시오.",
+        "download": "다운로드하러 가기",
+        "nofound": "방문하는 페이지가 없습니다.",
+        "nofoundTip": "다운로드를 클릭하면 자세한 정보를 즉시 볼 수 있습니다",
+        "deleteText": "This work has been deleted",
+        "seeMore": " 오픈 Noona, 더많은 재미있는 내용을 찾아보세요.",
+        "deleteWorks": "This work has been deleted",
+        "regionLimit": "The work cannot be viewed in your area due to copyright restrictions"
+      },
+      "video": {
+        "open": "오픈",
+        "replay": "재방송",
+        "keepPlaying": "재생 이어가기",
+        "moreVideo": "더 많은 작품",
+        "end": "이미 끝났다.",
+        "tips1": "모바일 데이터 사용중",
+        "tips2": "계속 연주할지 여부",
+        "cancelBtn": "취소",
+        "continueBtn": "계속하기",
+        "failedLoad": "동영상로드 실패",
+        "retryBtn": "재시도"
+      },
+      "user": {
+        "followers": "팔로워",
+        "following": "팔로잉",
+        "hearts": "좋아요",
+        "followBtn": "팔로우",
+        "noVideo": "동영상이 없습니다.",
+        "works": "작품",
+        "likes": "좋아요",
+        "commentBtn": "댓글",
+        "likesBtn": "좋아요",
+        "shareBtn": "공유"
+      },
+      "invite": {
+        "inviteTitle": "다운로드Noona",
+        "inviteSubTitle": "체력이 필요해",
+        "inviteTxt": "여러분이 도와달라고 당신을 요청합니다",
+        "inviteCode": "초대 코드",
+        "copyBtn": "복제",
+        "downloadBtn": "자세한 내용을 보려면 Noona 다운로드하세요"
+      }
+    },
+    "task": {
+      "center": {
+        "title": "체력센터",
+        "NativeNavSubTitle": "초대코드 입력",
+        "inviteFriendsShareTitle": "Noona, 체력을 얻을 수 있도록 와서.",
+        "inviteFriendsShareDesc": "Noona는 짧은 비디오 공유 커뮤니티입니다",
+        "subTitle": "미쎤을 하려면 체력이 필요해요",
+        "strengthFull": "체력 이미 다 찼다",
+        "strengthCountDown": "후 체력을 완전히 회복할수 있다",
+        "strengthTitle": "힘설명",
+        "strengthSubTitle1": "체력 획득",
+        "strengthGet1": "미쎤수행 획득",
+        "strengthGet2": "체력이 시간당 10씩 자율적으로 회복할 수 있습니다",
+        "strengthGet3": "첫 번째 등록자 성공 등록 체력 + 10, 체력 상한 + 10",
+        "strengthSubTitle2": "체력 소모",
+        "strengthUse1": "비디오 시청, 체력 -1",
+        "strengthUse2": "비디오 다운로드, 체력-2",
+        "strengthMark": "참고: 체력 데이터 업데이트는 지연될수 있습니다",
+        "inviteTitle1": "초대 코드 입력",
+        "inviteTitle2": "여러분이 도와달라고 당신을 요청합니다!",
+        "inviteInput": "초대 코드 입력",
+        "inviteInputError": "초대 코드 무효！",
+        "inviteInputAlready": "당신은 이미 초대 코드를 작성했다!",
+        "inviteInputSuccess": "초대 코드 확인성공!",
+        "inviteInputSuccessTips1": "친구들을 초청하여 체력을 얻자",
+        "inviteInputSuccessTips2": "서둘러친구 초대하기",
+        "inviteBtnWant": "초청하기",
+        "inviteBtn": "확인",
+        "copyRight": "최종 해석은 Noona.에 속하는."
+      }
+    },
+    "wallet": {
+      "index": {
+        "title": "지갑",
+        "NativeNavSubTitle": "도움 센터",
+        "currentIncome": "당기수익",
+        "historyIncome": "역사적 총이익",
+        "recentIncomeRecord": "단기 수익 기록",
+        "transactionRecord": "거래 기록",
+        "noRecord": "당신은 아직 수입 기록이 없으니 빨리 동영상을 게시하세요."
+      },
+      "transaction" : {
+        "title": "거래 기록",
+        "noRecord": "아니오 거래 기록~"
+      }
+    },
+    "media": {
+      "news": {
+        "followBtn": "팔로잉",
+        "followedBtn": "팔로우",
+        "moreNews": "추가 정보",
+        "openBtn": "오픈 Noona 더 읽기"
+      }
+    }
+  }
+}

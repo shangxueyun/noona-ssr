@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "seo": {
+      "title": "Baca banyak maklumat pada bila-bila masa",
+      "keywords": "Maklumat",
+      "description": "Kali pertama untuk memahami berita panas",
+      "descriptions": "Berkongsi nyawa anda di sini dan cari beberapa kawan，Operasi sangat mudah，Hanya buka app，Klik pada video kecil kegemaran anda，Tonton bila-bila sahaja, di mana sahaja，Nikmati masa kegembiraan，Anda juga boleh berkongsi kebahagiaan ini dengan semua orang di sekeliling anda melalui rangkaian sosial."
+    },
+    "share": {
+      "common": {
+        "title": "Noona",
+        "desc": "Platform membaca maklumat secara besar-besaran!",
+        "loading": "Memuatkan...",
+        "loadRetry": "Gagal memuatkan, klik untuk cuba lagi",
+        "download": "Pergi Memuat Turun",
+        "nofound": "Halaman yang diakses tidak wujud",
+        "nofoundTip": "Klik Muat turun untuk melihat maklumat lanjut dengan serta-merta",
+        "deleteText": "This work has been deleted",
+        "seeMore": "Open Noona untuk melihat kandungan yang lebih menarik",
+        "deleteWorks": "This work has been deleted",
+        "regionLimit": "The work cannot be viewed in your area due to copyright restrictions"
+      },
+      "video": {
+        "open": "Buka",
+        "replay": "Tonton Sekali Lagi",
+        "keepPlaying": "Terus Tonton",
+        "moreVideo": "Lebih Banyak Karya",
+        "end": "Sudah pada akhirnya",
+        "tips1": "Menggunakan rangkaian data mudah alih",
+        "tips2": "sama ada untuk terus bermain",
+        "cancelBtn": "Batalkan",
+        "continueBtn": "Teruskan",
+        "failedLoad": "Pemuatan video gagal",
+        "retryBtn": "Cuba semula"
+      },
+      "user": {
+        "followers": "Peminat",
+        "following": "Mengikuti",
+        "hearts": "Hati",
+        "followBtn": "Mengikuti",
+        "noVideo": "Belum Ada Video",
+        "works": "Karya",
+        "likes": "Suka",
+        "commentBtn": "Komen",
+        "likesBtn": "Suka",
+        "shareBtn": "Kongsi"
+      },
+      "invite": {
+        "inviteTitle": "Muat turun Seely",
+        "inviteSubTitle": "untuk dapatkan tenaga",
+        "inviteTxt": "jemput anda untuk membantu dia dapatkan tenaga",
+        "inviteCode": "Kod jemputan",
+        "copyBtn": "Salin",
+        "downloadBtn": "Muat turun Noona untuk mengetahui lebih lanjut"
+      }
+    },
+    "task": {
+      "center": {
+        "title": "Pusat Tenaga",
+        "NativeNavSubTitle": "Masukkan kod jemputan",
+        "inviteFriendsShareTitle": "Datang ke Noona, bantu saya mendapatkan kekuatan fizikal.",
+        "inviteFriendsShareDesc": "Noona adalah komuniti perkongsian video pendek yang menyeronokkan",
+        "subTitle": "Lakukan tugas ini untuk dapatkan tenaga",
+        "strengthFull": "Tenaga sudah penuh",
+        "strengthCountDown": "Tenaga akan dipulihkan sepenuhnya selepas",
+        "strengthTitle": "Kekuatan fizikal terangkan",
+        "strengthSubTitle1": "Tenaga didapatkan",
+        "strengthGet1": "Lakukan tugas didapatkan",
+        "strengthGet2": "Tenaga akan tambah 10 secara automatik pada setiap jam",
+        "strengthGet3": "Apabila berjaya berdaftar pada pertama kalinya, tanaga akan tamba 10, had tenaga akan tambah 10",
+        "strengthSubTitle2": "Tenaga digunakan",
+        "strengthUse1": "Apabila tonton video, tenaga dikurangkan 1 ",
+        "strengthUse2": "Apabila muat turun video, tenaga dikurangkan 2",
+        "strengthMark": "Nota: Kemas kini data tenaga mungkin ada kelewatan",
+        "inviteTitle1": "Masukkan kod jemputan",
+        "inviteTitle2": "untuk membantu dia dapatkan tenaga!",
+        "inviteInput": "Masukkan kod jemputan",
+        "inviteInputError": "Kod jemputan tidak sah！",
+        "inviteInputAlready": "Anda telah masukkan kod jemputan!",
+        "inviteInputSuccess": "Pengesahan kod jemputan berjaya!",
+        "inviteInputSuccessTips1": "Jemput rakan untuk dapatkan tenaga",
+        "inviteInputSuccessTips2": "marilah jemput rakan untuk",
+        "inviteBtnWant": "Saya nak jemput juga",
+        "inviteBtn": "Sahkan",
+        "copyRight": "Hak tafsiran terakhir dimiliki oleh Noona semua."
+      }
+    },
+    "wallet": {
+      "index": {
+        "title": "Wallet",
+        "NativeNavSubTitle": "Pusat Bantuan",
+        "currentIncome": "Pendapatan semasa",
+        "historyIncome": "Jumlah pendapatan",
+        "recentIncomeRecord": "Rekod pendapatan terkini",
+        "transactionRecord": "Rekod transaksi",
+        "noRecord": "Anda belum ada rekod pendapatan, marilah siarkan video."
+      },
+      "transaction" : {
+        "title": "Rekod transaksi",
+        "noRecord": "Belum rekod transaksi~"
+      }
+    },
+    "media": {
+      "news": {
+        "followBtn": "Mengikuti",
+        "followedBtn": "Diikuti",
+        "moreNews": "Maklumat lanjut",
+        "openBtn": "Buka Berita Berita untuk mengetahui lebih lanjut"
+      }
+    }
+  }
+}
